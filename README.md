@@ -46,15 +46,13 @@ I'm a **Computer Science and Engineering (CSE) student** at Rajarambapu Institut
 > - Implemented a **responsive and interactive** UI for an enhanced user experience.
 > - Hosted the website to serve as an **online resume and project showcase**.
 
-## 📈 GitHub Stats
-![Vinayak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinayakpatil7&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakpatil7&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=vinayakpatil7&theme=radical)
+
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vinayakpatil7](https://www.linkedin.com/in/vinayak-patil-485385269/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayak-patil-485385269/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinayakpatil7)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-308D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)]([https://auth.geeksforgeeks.org/user/vinayakpatil7](https://www.geeksforgeeks.org/user/vinayak_patil/))
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-308D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/vinayak_patil/)
+
 
 ---
 ⭐ **Looking for collaboration on ML projects? Let's connect!** 😊
