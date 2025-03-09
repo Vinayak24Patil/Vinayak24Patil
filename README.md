@@ -50,7 +50,7 @@ I'm a **Computer Science and Engineering (CSE) student** at Rajarambapu Institut
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayak-patil-485385269/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinayakpatil7)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vinayak24Patil)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-308D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/vinayak_patil/)
 
 
