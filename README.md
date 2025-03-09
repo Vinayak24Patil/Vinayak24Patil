@@ -25,7 +25,7 @@ I'm a **Computer Science and Engineering (CSE) student** at Rajarambapu Institut
 > - Implemented an AI that learns how to play the classic Snake game using **reinforcement learning**.
 > - Uses **Deep Q-Networks (DQN)** to improve performance over time.
 
-### 🔹 [Employee Management System](https://github.com/vinayakpatil7/employee-management-system)
+### 🔹 [Employee Management System](https://github.com/Vinayak24Patil/Employee-Record-Management)
 > **Technologies:** Java, MySQL
 > - A console-based system to manage employee records, salaries, and performance.
 > - Features CRUD operations with an intuitive menu-driven interface.
@@ -40,7 +40,7 @@ I'm a **Computer Science and Engineering (CSE) student** at Rajarambapu Institut
 > - Built a system to handle flight reservations, cancellations, and waitlisting.
 > - Implemented an efficient ticket generation and seat allocation system.
 
-### 🔹 [Portfolio Website](https://github.com/vinayakpatil7/portfolio-website)
+### 🔹 [Portfolio Website](https://github.com/Vinayak24Patil/Portfolio)
 > **Technologies:** HTML, CSS, JavaScript
 > - Designed and developed a **personal portfolio website** showcasing my skills, projects, and achievements.
 > - Implemented a **responsive and interactive** UI for an enhanced user experience.
