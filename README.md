@@ -21,9 +21,10 @@ I'm a **Computer Science and Engineering (CSE) student** at Rajarambapu Institut
 
 ## 📌 Projects
 ### 🔹 [Restaurants-Billing-System](https://github.com/Vinayak24Patil/Restaurants-Billing-System)
-> **Technologies:** Python, Pygame, PyTorch
-> - Implemented an AI that learns how to play the classic Snake game using **reinforcement learning**.
-> - Uses **Deep Q-Networks (DQN)** to improve performance over time.
+> **Technologies:** Java, OOP
+**Bill Class**: Manages billing functions, such as adding orders, quantities, and calculating total cost.  
+- **Main Class**: Creates a Bill object, adds orders, and displays the total.  
+- Serves as a foundation for further development.  
 
 ### 🔹 [Employee Management System](https://github.com/Vinayak24Patil/Employee-Record-Management)
 > **Technologies:** Java, MySQL
