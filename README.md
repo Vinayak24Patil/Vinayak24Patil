@@ -20,7 +20,7 @@ I'm a **Computer Science and Engineering (CSE) student** at Rajarambapu Institut
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📌 Projects
-### 🔹 [Snake Game AI](https://github.com/vinayakpatil7/snake-game-ai)
+### 🔹 [Restaurants-Billing-System](https://github.com/Vinayak24Patil/Restaurants-Billing-System)
 > **Technologies:** Python, Pygame, PyTorch
 > - Implemented an AI that learns how to play the classic Snake game using **reinforcement learning**.
 > - Uses **Deep Q-Networks (DQN)** to improve performance over time.
