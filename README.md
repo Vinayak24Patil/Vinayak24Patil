@@ -35,7 +35,7 @@ I'm a **Computer Science and Engineering (CSE) student** at Rajarambapu Institut
 > - Designed a **three-round competitive coding challenge** for my college event.
 > - Curated problem statements ranging from **simple to medium-hard difficulty**.
 
-### 🔹 [Airline Reservation System](https://github.com/vinayakpatil7/airline-reservation)
+### 🔹 [Airline Reservation System](https://github.com/Vinayak24Patil/Airline_Reservation_System/blob/main/README.md)
 > **Technologies:** Java, MySQL
 > - Built a system to handle flight reservations, cancellations, and waitlisting.
 > - Implemented an efficient ticket generation and seat allocation system.
