@@ -5,7 +5,6 @@ I'm a **Computer Science and Engineering (CSE) student** at Rajarambapu Institut
 
 ### 💡 What I Do:
 - **Java Development**: Specializing in backend development and working on **JDBC, Spring Boot, and REST APIs**.
-- **Machine Learning Enthusiast**: Exploring ML with **Python, PyTorch, and Pygame AI**.
 - **Competitive Programmer**: Solved **480+ problems** on GeeksforGeeks and achieved an **institutional rank of 40**.
 - **Event Organizer**: Conducting coding challenges and workshops to help peers improve their technical skills.
 
