@@ -31,7 +31,7 @@ Former **Vice President of Oyster Kode Club**, where I organized coding events, 
 
 ## 📌 Featured Projects
 
-### 🔹 [Tree-Level Change Detection Across Maharashtra State](https://github.com/Vinayak24Patil/Vinayak24Patil-Tree-Level-Change-Detection-Across-Maharashtra-State)
+### 🔹 [Tree-Level Change Detection Across Maharashtra State (Onging)](https://github.com/Vinayak24Patil/Vinayak24Patil-Tree-Level-Change-Detection-Across-Maharashtra-State)
 > **Technologies:** Python, Machine Learning, Data Analysis  
 - Analyzes satellite imagery from **2011–2023** to detect tree cover changes.  
 - Classifies districts into **Green, Orange, and Red zones** for reforestation awareness.  
@@ -39,7 +39,7 @@ Former **Vice President of Oyster Kode Club**, where I organized coding events, 
 
 ---
 
-### 🔹 [MailMind AI](https://github.com/Vinayak24Patil/MailMind-AI)
+### 🔹 [MailMind AI (Onging)](https://github.com/Vinayak24Patil/MailMind-AI)
 > **Technologies:** Spring Boot, Spring AI  
 - An **intelligent email assistant** extension.  
 - Auto-generates replies, summarizes emails, and boosts productivity.  
