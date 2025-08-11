@@ -10,7 +10,6 @@ Former **Vice President of Oyster Kode Club**, where I organized coding events, 
 
 ### 💡 What I Do:
 - **Java Backend Development** with **Spring Boot, JDBC, REST APIs**.
-- **Machine Learning & AI Projects** involving real-world datasets and problem-solving.
 - **Competitive Programming** — institutional rank **40** on GFG.
 - **Event Management** — organized hackathons, workshops, and coding competitions.
 
